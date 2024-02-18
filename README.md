@@ -41,7 +41,7 @@ In order to compute the EWMA, you must define one parameter β. This parameter d
 
 ![Screenshot 2024-02-18 at 2 36 27 PM](https://github.com/mrvinayakjha/Exponential-weighted-moving-Average/assets/100670889/2bdc7912-2feb-49ea-ab47-bb23cf7333c7)
 
-
+Credit : https://medium.com/mlearning-ai/exponentially-weighted-average-5eed00181a09
 
 
 
